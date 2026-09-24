@@ -1,0 +1,24 @@
+# Виртуальное окружение Python
+.venv/
+venv/
+env/
+
+# Тестовый файл блокнота (по запросу)
+test.ipynb
+
+# Служебные файлы и автосохранения Jupyter Notebook
+.ipynb_checkpoints/
+
+# Кэш Python и скомпилированные файлы
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Настройки IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Системные файлы macOS и Windows
+.DS_Store
+Thumbs.db
+desktop.ini
